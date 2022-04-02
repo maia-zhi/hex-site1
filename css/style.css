@@ -119,7 +119,7 @@ table {
 .banner{
     margin: 0auto;
     height: 346px;  
-    background-image: url(/images/banner.png);
+    background-image: url(images/banner.png);
     position: relative;
 }
 .bannerText{
